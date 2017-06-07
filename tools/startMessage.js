@@ -1,3 +1,3 @@
 import colors from 'colors';
 
-console.log('Starting App in dev mode ...'.green);
+console.log('Starting App in dev mode ...'.green); //eslint-disable-line 
