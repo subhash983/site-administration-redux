@@ -101,4 +101,3 @@ class CourseApi {
 }
 
 export default CourseApi;
-s
