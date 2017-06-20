@@ -14,7 +14,7 @@ function updateCourseSuccess(course) {
     return {type: types.UPDATE_COURSES_SUCCESS, course};
 }
 
-function createCourseSuccess(course) {
+export function createCourseSuccess(course) {
     return {type: types.CREATE_COURSES_SUCCESS, course};
 }
 
